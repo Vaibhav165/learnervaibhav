@@ -1,0 +1,24 @@
+body {  font-size:90%;
+font-family: veradana, arial, sans-serif;
+color:black;    text-align: center;  margin: 0px; }
+
+.header {  position: fixed; height: 110px;
+ width: 100%; background-image: url(IMG/bg-header.jpg); 
+    top: 0px; padding: 0px; float: left;}
+.nav { float: left; 
+    padding: 5px 0px 5px 0px; text-align: right; } 
+.nav a { margin: 2%; color: #b5c1ad;} 
+.nav a:hover { color: #fff;}
+
+.wrapper { width:960px; margin: 0px auto;
+text-align: left;}
+
+.profile { padding: 10%; clear: left;}
+.skills { padding: 5%; clear: left; float: left}
+.skills h2 { clear: left;}
+td,th { margin: 4%; padding: 4%; }
+
+
+.footer { clear: both; background: rgba(0,0,0,0.2); 
+ padding: 5px 10px; } 
+.footer a { text-align: right; font-size: 80%; color: black; padding: 5%;  }
